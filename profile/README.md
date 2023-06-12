@@ -63,7 +63,7 @@ As you can see, the obfuscated code is much harder to understand and follow, mak
 <br><br>Note: __Mainly .Net so any nummber of `°` mean another target language__<br>
 °) Lua
 
-
+# Categories
   - ["Simple" Obfuscators/Others](#Others)
   - [ConfuserEx Based](#ConfuserEx-Based)
   - [VMs Based/Virtualization](#VMs)
